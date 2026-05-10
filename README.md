@@ -13,8 +13,8 @@
 * **API:** Google Play Services (Location)
 
 ## 👥 The Development Team
-| Name | Role |
-| :--- | :--- |
+| Name |
+| :--- |
 | **Muhammad Hammad** | 
 | **Abdul Rahman** |
 | **Waqar Ahmed** | 
