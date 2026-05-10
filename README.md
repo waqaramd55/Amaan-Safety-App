@@ -15,13 +15,9 @@
 ## 👥 The Development Team
 | Name | Role |
 | :--- | :--- |
-| **Muhammad Hammad** | Project Lead & Core Logic Developer |
-| **Abdul Rahman** | Hardware Sensor Integration |
-| **Waqar Ahmed** | UI/UX Design & Backend Integration |
-## 📺 Project Demo
-![AMAAN App Demo](demo.gif)
-
----
+| **Muhammad Hammad** | 
+| **Abdul Rahman** |
+| **Waqar Ahmed** | 
 
 ## 🔗 Repository
 **GitHub:** [https://github.com/waqaramd55/Amaan-Safety-App](https://github.com/waqaramd55/Amaan-Safety-App)
